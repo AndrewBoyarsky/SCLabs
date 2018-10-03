@@ -1,4 +1,4 @@
-/*
+package com.hesky.labs.lab01;/*
  * Copyright © 2018 Apollo Foundation
  */
 
